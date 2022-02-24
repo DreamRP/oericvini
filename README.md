@@ -1,7 +1,7 @@
 Olá! Me chamo Eric Vinicius.
 
-📡 Atualmente trabalhando com Back-End
-💡 Estudando: Java
+- 📡 Atualmente trabalhando com Back-End
+- 💡 Estudando: Java
 
 <div align="center">
   <a href="https://github.com/oericvini">
