@@ -1,3 +1,8 @@
+Olá! Me chamo Eric Vinicius.
+
+📡 Atualmente trabalhando com Back-End
+💡 Estudando: Java
+
 <div align="center">
   <a href="https://github.com/oericvini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oericvini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
